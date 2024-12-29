@@ -1,6 +1,8 @@
 # Data Science Chess Analysis
 Answering numerous chess questions with data science procedures (clustering, ML, etc...)
 
+### A higher-level presentation of this project can be found on [USC's Statistics Seminar Youtube](https://www.youtube.com/watch?v=7AM4lGa9hoQ)
+
 ### Want to duplicate the results?
 You will need to generate your own API key from Lichess.com to scrape player-specific matches
 
