@@ -9,7 +9,7 @@ Includes:
 - explanation and analysis of work finished so far
 - Chess theory/general research info found for the project
 
-**Currently done:** 
+**Completed at time of creation:** 
 - Scraping ~6000 chess games from Lichess users (specifically users froom team 'coders')
 - 3 Variable PCA
 - K-means clustering on 3 variables
