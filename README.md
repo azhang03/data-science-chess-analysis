@@ -20,3 +20,6 @@ Includes:
 - Scraping of only Stockfish-analyzed Lichess matches
 - Scraping centipawn info (for mistake and performance analysis based on elo)
 - Training
+
+### FinalPaper.pdf
+A comprehensive paper on the entire project and methods.
