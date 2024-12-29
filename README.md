@@ -23,3 +23,12 @@ Includes:
 
 ### FinalPaper.pdf
 A comprehensive paper on the entire project and methods.
+
+### Super Duper Lichess Scraper 5000.ipynb
+Code for creating the dataset from Lichess players in popular teams
+
+### analyses.ipynb
+Includes the more basic analysis (statistical testing, etc...)
+
+### Neural.ipynb
+Analysis of the data set using neural network models
